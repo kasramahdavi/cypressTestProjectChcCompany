@@ -1,0 +1,21 @@
+{
+
+    "video": false,
+    "screenshotOnRunFailure": false,
+   
+    "integrationFolder": "cypress/integration",
+  
+    
+  
+    "env": {
+      "MAILOSAUR_API_KEY": "LR6ITyQTfpIMCw9q",
+      "username": "private info",
+      "password": "",
+      "baseUrl":" http://connected-testing.com/"
+    },
+    "projectId": "mrjgtz",
+    "taskTimeout": 160000,
+    "failOnStatusCode": false
+  
+  }
+
