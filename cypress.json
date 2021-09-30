@@ -8,12 +8,11 @@
     
   
     "env": {
-      "MAILOSAUR_API_KEY": "LR6ITyQTfpIMCw9q",
       "username": "private info",
       "password": "",
       "baseUrl":" private info"
     },
-    "projectId": "mrjgtz",
+  
     "taskTimeout": 160000,
     "failOnStatusCode": false
   
